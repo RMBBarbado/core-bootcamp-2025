@@ -1,0 +1,24 @@
+{
+    "name": "BARBADOS SL",
+    "description": "BARBADOS EXCLUSIVE BADGE",
+    "symbol": "SL",
+    "image": "https://i.imgur.com/5htHO8L.gif",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "BARBADOS EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
